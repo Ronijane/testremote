@@ -2,4 +2,4 @@
 
 greetings = input("Enter your greeting: ")
 
-print(f"You said: {greetings}")
+print(f"{greetings}. Welcome to the branching feature test!")
